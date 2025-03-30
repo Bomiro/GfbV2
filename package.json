@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^22.13.11",
     "axios": "^1.8.4",
     "botly": "^1.6.2",
     "dotenv": "^16.4.7",
