@@ -15,6 +15,7 @@
     "botly": "^1.6.2",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "form-data": "^4.0.2",
     "mongoose": "^8.13.0",
     "user-agents": "^1.1.501"
   }
